@@ -18,7 +18,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Stakeholders: provide inputs and approvals (types: sponsor, end user, partner).
+- UX Designer: drives usability research, wireframing, and prototyping.
+- Technical Writer: creates and maintains user-facing and internal documentation.
+- Scrum Master / Delivery Lead: facilitates agile processes and removes blockers.
+- Release Manager: plans and coordinates release schedules and communications.
 
 ## Key Artifacts
 - Project Charter / One-pager
